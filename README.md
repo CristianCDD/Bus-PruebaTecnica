@@ -1,1 +1,1 @@
-![Vista previa](bus-react/public/Civa.jpg)
+![Vista previa](https://i.ibb.co/XYZ/Civa.jpg)
