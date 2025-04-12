@@ -39,3 +39,8 @@ Desde esta dirección puedes acceder a los endpoints disponibles, por ejemplo:
 [http://localhost:5173/](http://localhost:5173/)
 
 Desde aquí puedes interactuar con la interfaz de usuario que consume los endpoints del backend.
+
+---
+
+## 🎯 Tablas
+[![Tablas-BUS.png](https://i.postimg.cc/s2XgBhMs/Tablas-BUS.png)](https://postimg.cc/jDpbmC6F)
