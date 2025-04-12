@@ -1,4 +1,11 @@
 
+## 📦 GESTOR DE PAQUETES UTILIZADO (FRONTEND)
+
+Este proyecto utiliza **[Yarn](https://yarnpkg.com/)** como gestor de paquetes en el frontend (React).
+
+``
+---
+
 # 📄 VISUALIZACIÓN DE RESULTADOS
 
 ## 🚍 CONSULTA DE TODOS LOS BUSES
@@ -8,7 +15,7 @@ Este endpoint permite obtener la **lista completa de buses registrados** en la b
 
 [![TablaBus.png](https://i.postimg.cc/Dzqbgs2s/TablaBus.png)](https://postimg.cc/8Fz5k7fP)
 
-
+``
 ---
 
 ## 🔍 CONSULTA DE UN BUS POR ID
